@@ -25,4 +25,10 @@ public class ConfigurationReader {
 		return configFile.getProperty(keyName);
 	}
 
+
+	public static void getLink(){
+		String str= "";
+		System.out.println(str);
+	}
+
 }
